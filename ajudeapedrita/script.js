@@ -1,5 +1,5 @@
 function copiarPix() {
-    const chave = "email@exemplo.com";
+    const chave = "21975465645";
     navigator.clipboard.writeText(chave)
         .then(() => {
             alert("Chave PIX copiada com sucesso!");
