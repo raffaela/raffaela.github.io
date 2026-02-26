@@ -86,7 +86,24 @@ footer {
     padding: 20px;
     background-color: #eee;
 }
+.instagram {
+    margin-top: 20px;
+}
 
+.botao-instagram {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 12px 20px;
+    background-color: #E1306C;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.botao-instagram:hover {
+    opacity: 0.9;
+}
 /* Responsivo */
 @media (max-width: 768px) {
     .container {
